@@ -1,4 +1,6 @@
 agno
 openai
 streamlit
-duckduckgo-search
+google-generativeai
+
+
